@@ -1,6 +1,6 @@
 ### Hi there 👋João Marcos here! :]
 
-<div>
+<div>a
   <a href="https://github.com/2jmcarvalho"/>
   <img height ="147em" src="https://github-readme-stats.vercel.app/api?username=2jmcarvalho&rank_icon=github&theme=dark"/>
 </div>
