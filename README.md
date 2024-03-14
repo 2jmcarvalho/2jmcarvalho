@@ -1,4 +1,4 @@
-### Hi there 👋João Marcos here! :]
+###👋João Marcos here! :]
 
 <div>
   <a href="https://github.com/2jmcarvalho"/>
