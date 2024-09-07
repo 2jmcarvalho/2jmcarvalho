@@ -9,8 +9,7 @@
 <div>
 <section align='center'>
   <a href="https://github.com/2jmcarvalho"/>
-  <img height ="100em" src="https://github-readme-stats.vercel.app/api?username=2jmcarvalho&rank_icon=github&theme=cobalt"/>
-  <img height ="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2jmcarvalho&layout=compact&theme=radical"/>
+  <img height ="em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2jmcarvalho&layout=compact&theme=radical"/>
 </section>
 </div>
 
