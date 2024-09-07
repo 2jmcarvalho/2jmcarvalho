@@ -27,15 +27,11 @@
    </section>
 </div>
 
-## 📫 Vamos nos conectar? 
+## 📫 Contact me
 <div>
   <section align='center'>
-  <a href="https://www.instagram.com/jm.carv4lho/"/>
-  <img height src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
-  <a href="https://www.linkedin.com/in/joaom-s-carvalho/"/>
-  <img height src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://replit.com/@joaom_"/>
-  <img height src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=orange"/>
+  <a href="https://www.linkedin.com/in/joaom-s-carvalho"><img src="https://img.shields.io/badge/-LinkedIn-0270AD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaom-s-carvalho/" alt="Linkedin"/></a>
+<a href="mailto:2jmcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E94134?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2jmcarvalho@gmail.com" alt="Gmail"/></a>
   </section>
 </div>
 <div>
