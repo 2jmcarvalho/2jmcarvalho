@@ -6,9 +6,6 @@
 <a href="https://github.com/2jmcarvalho"><img height ="" src="https://github-readme-streak-stats.herokuapp.com/?user=2jmcarvalho&theme=cobalt&hide_border=true)" alt="2jmcarvalho's github stats" /></a>
 </section>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/2jmcarvalho/2jmcarvalho/output/snake.svg" alt="Snake animation" />
-</picture>
 
 ## 🛠️ Languages and tools
 <div>
