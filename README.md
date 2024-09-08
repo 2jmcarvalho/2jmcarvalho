@@ -1,4 +1,6 @@
-##👋João Marcos here! :]
+
+# <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif" width="40px"> João Marcos here! :P <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px">
+
 
 ## 📊 Status
 
