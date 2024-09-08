@@ -32,7 +32,7 @@
    </section>
 </div>
 
-## 📫 How to reach me:
+## <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="23px">  How to reach me:
 <div>
   <section align='center'>
   
