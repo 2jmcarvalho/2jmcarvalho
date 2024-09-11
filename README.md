@@ -17,9 +17,9 @@
 </section>
 </div>
 
-
-
 </div>
+
+
 
 <div style="display: inline_block"><br>
   <section align='center'>
@@ -33,6 +33,9 @@
   
    </section>
 </div>
+
+
+
 
 ## <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="23px">  How to reach me:
 <div>
