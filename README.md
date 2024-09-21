@@ -4,7 +4,7 @@
 - 🎓 &nbsp; Estudante de Ciência da Computação na Instituição [IESB](https://www.iesb.br).
 ## 📊 Status
 
-.
+
 <section align='center'>
 <a href="https://github.com/2jmcarvalho"><img height ="" src="https://github-readme-streak-stats.herokuapp.com/?user=2jmcarvalho&theme=cobalt&hide_border=true)" alt="2jmcarvalho's github stats" /></a>
 </section>
